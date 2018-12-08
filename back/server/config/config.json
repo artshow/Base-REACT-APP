@@ -1,0 +1,14 @@
+{
+	"test": {
+		"BASE_URL": "http://localhost:3001/",
+		"MONGODB_URI": "URL_BDD",
+		"JWT_SECRET": "JWT_SECRET",
+		"BASE_URL_APP": "http://localhost:3000"
+	},
+	"development": {
+		"BASE_URL": "http://localhost:3001/",
+		"MONGODB_URI": "URL_BDD",
+		"JWT_SECRET": "JWT_SECRET",
+		"BASE_URL_APP": "http://localhost:3000"
+	}
+}
